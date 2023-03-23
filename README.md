@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [EDIT...](EDIT...)
 
-- ⚡ Fun fact, **I'm a bit funny, I think. But I'm sure I like playing guitar, riding my bike and programming.**
+- ⚡ Fun fact, **I'm a bit funny, I think. But what I am sure of is that I like to play the guitar, ride my bike and of course, program until I lose the sense of time.**
 </div>
 
 ### Blogs posts
