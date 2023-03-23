@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [EDIT...](EDIT...)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
 
