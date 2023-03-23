@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on **Kuroba** in Corrientes
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **advanced JS, React & Redux**
 
 - 👨‍💻 All of my projects are available at [EDIT...](EDIT...)
 
