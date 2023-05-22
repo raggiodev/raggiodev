@@ -3,7 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joetheorium&label=Profile%20views&color=0e75b6&style=flat" alt="joetheorium" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=joetheorium&theme=dark_lover alt="joetheorium" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=joetheorium&column=8&theme=dark_lover&no-frame=true"/>
+  </a>
+</p>
 
 <p align="center"> <a href="https://twitter.com/joetheorium" target="[blank](https://twitter.com/JoeTheorium)"><img src="https://img.shields.io/twitter/follow/joetheorium?logo=twitter&style=for-the-badge" alt="joetheorium" /></a> </p>
 
