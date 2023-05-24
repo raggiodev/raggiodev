@@ -13,7 +13,7 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on **Kuroba** in Corrientes
+- 🔭 I’m currently working at **Kuroba** as a *Frontend Web Dev* in Corrientes, Argentina
 
 - 🌱 I’m currently learning **advanced JS, React & Redux**
 
