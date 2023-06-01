@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joetheorium&label=Profile%20views&color=0e75b6&style=flat" alt="joetheorium" /> </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=900 src="https://github-profile-trophy.vercel.app/?username=joetheorium&column=8&theme=dark_lover&no-frame=true"/>
   </a>
@@ -17,17 +17,19 @@
 
 - 🌱 I’m currently learning **advanced JS, React & Redux**
 
-- 👨‍💻 All of my projects are available at [EDIT...](EDIT...)
-
-- 📝 I regularly write articles on [EDIT...](EDIT...)
+- 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JoeTheorium?tab=repositories)
 
 - 💬 Ask me about **Front-end Web Development**
 
 - 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
 
-- 📄 Know about my experiences in [EDIT...](EDIT...)
+- 📄 Check my Portfolio! [EDIT...](EDIT...)
 
-- ⚡ Fun fact, **I'm a bit funny, I think. But what I am sure of is that I like to play the guitar, ride my bike and of course, program until I lose the sense of time.**
+- 🚶‍♂️ Know about my experiences in [EDIT...](EDIT...)
+
+- 📝 I regularly write articles on [EDIT...](EDIT...)
+
+- ⚡ I like to **Play guitar, read, gym, watch series, play videogames & spending time with my family and friends. You know.**
 </div>
 
 ### Blogs posts
