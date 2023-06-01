@@ -70,8 +70,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="JsonWebToken" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
   <a href="https://www.koyeb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn2.systemsdigest.com/sites/default/files/logos/koyeb-thumb.png" alt="Koyeb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968521.png" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://dev.mysql.com/downloads/workbench/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" alt="Workbench" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
