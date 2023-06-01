@@ -15,15 +15,15 @@
   
 - 🔭 I’m currently working at *Kuroba* as a **Frontend Web Dev** in Corrientes, Argentina
 
-- 🌱 I’m currently learning **advanced JS, React & Redux**
-
-- 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JoeTheorium?tab=repositories)
+- 🌱 I’m Learning **advanced JS, React & Redux**
 
 - 💬 Ask me about **Front-end Web Development**
 
-- 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
+- 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JoeTheorium?tab=repositories)
 
 - 📄 Check my Portfolio! [EDIT...](EDIT...)
+
+- 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
 
 - 🚶‍♂️ Know about my experiences in [EDIT...](EDIT...)
 
