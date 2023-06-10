@@ -15,7 +15,7 @@
   
 - 🔭 I’m currently working at *Kuroba* as a **Frontend Web Dev** in Corrientes, Argentina
 
-- 🌱 I’m Learning **advanced JS, React & Redux**
+- 🌱 I’m Learning **advanced JS, React & Redux and Angular**
 
 - 💬 Ask me about **Front-end Web Development**
 
