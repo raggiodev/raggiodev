@@ -21,13 +21,13 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JoeTheorium?tab=repositories)
 
-- 📄 Check my Portfolio! [INMINENT](INMINENT...)
+- 📄 Check my Portfolio! [INMINENT!]()
 
 - 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
 
-- 🚶‍♂️ Know about my experiences in [INMINENT](INMINENT...)
+- 🚶‍♂️ Know about my experiences in [INMINENT!]()
 
-- 📝 I regularly write articles on [INMINENT](INMINENT...)
+- 📝 I regularly write articles on [INMINENT!]()
 
 - ⚡ I like to **Taekwondo, play guitar, read, gym, watch series, play videogames & spending time with my family and friends. You know.**
 </div>
