@@ -21,20 +21,20 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JoeTheorium?tab=repositories)
 
-- 📄 Check my Portfolio! [EDIT...](EDIT...)
+- 📄 Check my Portfolio! [INMINENT](INMINENT...)
 
 - 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
 
-- 🚶‍♂️ Know about my experiences in [EDIT...](EDIT...)
+- 🚶‍♂️ Know about my experiences in [INMINENT](INMINENT...)
 
-- 📝 I regularly write articles on [EDIT...](EDIT...)
+- 📝 I regularly write articles on [INMINENT](INMINENT...)
 
 - ⚡ I like to **Taekwondo, play guitar, read, gym, watch series, play videogames & spending time with my family and friends. You know.**
 </div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<p>EDIT...</p>
+<p>INMINENT...</p>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
