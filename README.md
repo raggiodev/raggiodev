@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼 I'm Raggio Fernando Andrés</h1>
-<h3 align="center">A passionate Front-end Web Developer from Argentina</h3>
+<h3 align="center">A Full Stack MERN - Web Developer from Argentina</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joetheorium&label=Profile%20views&color=0e75b6&style=flat" alt="joetheorium" /> </p>
 
