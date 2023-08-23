@@ -15,9 +15,9 @@
   
 - 🔭 I’m currently working at *Kuroba* as a **Frontend Web Dev** in Corrientes, Argentina
 
-- 🌱 I’m Learning **advanced JS & TS, React & Redux and Angular**
+- 🌱 I’m Learning **MERN Stack, advanced TS & JS**
 
-- 💬 Ask me about **Front-end Web Development**
+- 💬 Ask me about **MERN Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JoeTheorium?tab=repositories)
 
