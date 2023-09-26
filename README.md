@@ -7,6 +7,7 @@
 <p> <a href="https://twitter.com/joetheorium" target="[blank](https://twitter.com/JoeTheorium)"><img src="https://img.shields.io/twitter/follow/joetheorium?logo=twitter&style=for-the-badge" alt="joetheorium" /></a> </p>
 
 <div align="left">
+  
 - 🔭 I’m currently working at *Kuroba* as a **Frontend Web Dev** in Corrientes, Argentina
 
 - 🌱 I’m Learning **MERN Stack, advanced TS & JS**
