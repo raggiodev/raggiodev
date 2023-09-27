@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working at *Kuroba* as a **Frontend Web Dev** in Corrientes, Argentina
 
-- 🌱 I’m Learning **MERN Stack, advanced TS & JS**
+- 🌱 I’m Learning **MERN Stack, advanced JS y React**
 
 - 💬 Ask me about **MERN Full Stack Web Development**
 
