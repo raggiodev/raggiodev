@@ -4,7 +4,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=joetheorium&label=Profile%20views&color=0e75b6&style=flat" alt="joetheorium" /> </p>
 
-<p> <a href="https://twitter.com/joetheorium" target="[blank](https://twitter.com/JoeTheorium)"><img src="https://img.shields.io/twitter/follow/joetheorium?logo=twitter&style=for-the-badge" alt="joetheorium" /></a> </p>
+<p> <a href="https://twitter.com/joetheorium" target="[blank](https://twitter.com/JoeTheorium)"><img src="https://img.shields.io/twitter/follow/joetheorium?logo=twitter" alt="joetheorium" /></a> </p>
 
 <div align="left">
   
