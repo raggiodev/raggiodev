@@ -2,9 +2,9 @@
 <h1>Hi 👋🏼 I'm Raggio Fernando Andrés</h1>
 <h3>A Full Stack MERN - Web Developer from Argentina</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=joetheorium&label=Profile%20views&color=0e75b6&style=flat" alt="joetheorium" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20views&color=0e75b6&style=flat" alt="raggiodev" /> </p>
 
-<p> <a href="https://twitter.com/joetheorium" target="[blank](https://twitter.com/JoeTheorium)"><img src="https://img.shields.io/twitter/follow/joetheorium?logo=twitter" alt="joetheorium" /></a> </p>
+<p> <a href="https://twitter.com/raggiodev" target="[blank](https://twitter.com/raggiodev)"><img src="https://img.shields.io/twitter/follow/raggiodev?logo=twitter" alt="raggiodev" /></a> </p>
 
 <div align="left">
   
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JoeTheorium?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/raggiodev?tab=repositories)
 
 - 📄 Check my Portfolio! [INMINENT!]()
 
@@ -29,10 +29,10 @@
 
 ## 💌 Connect with me!
 <p>
-<a href="https://codepen.io/joetheorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joetheorium" height="30" width="40" /></a>
-<a href="https://dev.to/joetheorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joetheorium" height="30" width="40" /></a>
-<a href="https://twitter.com/joetheorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joetheorium" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joetheorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joetheorium" height="30" width="40" /></a>
+<a href="https://codepen.io/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raggiodev" height="30" width="40" /></a>
+<a href="https://dev.to/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raggiodev" height="30" width="40" /></a>
+<a href="https://twitter.com/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raggiodev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raggiodev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16666846/joetheorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joetheorium" height="30" width="40" /></a>
 <a href="https://codesandbox.com/u/joetheorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="joetheorium" height="30" width="40" /></a>
 <a href="https://dribbble.com/joetheorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="joetheorium" height="30" width="40" /></a>
@@ -65,3 +65,20 @@
 ## 💰 You can help me by Donating :)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/raggiofernando)
 </div>
+
+---
+## 🪪 My ORCID 🆔
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0000-1674-327X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0000-1674-327X
+    </a>
+    
