@@ -1,10 +1,10 @@
 <div align="center">
 <h1>Hi 👋🏼 I'm Raggio Fernando Andrés</h1>
-<h3>A Full Stack MERN - Web Developer from Argentina</h3>
+<h3>Full Stack MERN - Web Developer from Argentina</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20views&color=0e75b6&style=flat" alt="raggiodev" /> </p>
 
-<p> <a href="https://twitter.com/raggiodev" target="[blank](https://twitter.com/raggiodev)"><img src="https://img.shields.io/twitter/follow/raggiodev?logo=twitter" alt="raggiodev" /></a> </p>
+<p> <a href="https://twitter.com/raggiodev" target="[blank](https://x.com/raggiodev)"><img src="https://img.shields.io/twitter/follow/raggiodev?logo=twitter" alt="raggiodev" /></a> </p>
 
 <div align="left">
   
