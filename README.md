@@ -1,26 +1,24 @@
 <div align="center">
-<h1>Hi 👋🏼 I'm Raggio Fernando Andrés</h1>
+<h1>Hi 👋🏼 I’m Raggio Fernando Andres</h1>
 <h3>Full Stack MERN - Web Developer from Argentina</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20views&color=0e75b6&style=flat" alt="raggiodev" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20views&color=0e75b6&style=flat" alt="raggiodev" /> <img src="https://komarev.com/ghpvc/?username=JoeTheorium&label=Profile%20views&color=0e75b6&style=flat" alt="JoeTheorium" /> </p>
 
 <p> <a href="https://twitter.com/raggiodev" target="[blank](https://x.com/raggiodev)"><img src="https://img.shields.io/twitter/follow/raggiodev?logo=twitter" alt="raggiodev" /></a> </p>
 
 <div align="left">
   
-- 🔭 I’m currently working at *Kuroba* as a **Frontend Web Dev** in Corrientes, Argentina
+- 🔭 I’m currently working as a **Freelance Full Stack Web Developer** based in Argentina  
 
 - 🌱 I’m Learning **MERN Stack, advanced JS y React**
 
-- 💬 Ask me about **MERN Full Stack Web Development**
+- 💬 Ask me about **Full Stack Web Development with the MERN Stack; React Native with Expo & AI** (and more!)
+
+- 📄 Know about my experiences in my [PORTFOLIO!](https://raggiodev-portfolio.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/raggiodev?tab=repositories)
 
-- 📄 Check my Portfolio! [INMINENT!]()
-
 - 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
-
-- 🚶‍♂️ Know about my experiences in [INMINENT!]()
 
 - 📝 I regularly write articles on [INMINENT!]()
 
