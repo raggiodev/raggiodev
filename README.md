@@ -4,17 +4,17 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20views&color=0e75b6&style=flat" alt="raggiodev" /> <img src="https://komarev.com/ghpvc/?username=JoeTheorium&label=Profile%20views&color=0e75b6&style=flat" alt="JoeTheorium" /> </p>
 
-<p> <a href="https://twitter.com/raggiodev" target="[blank](https://x.com/raggiodev)"><img src="https://img.shields.io/twitter/follow/raggiodev?logo=twitter" alt="raggiodev" /></a> </p>
+<p> <a href="https://x.com/raggiodev" target="[blank](https://x.com/raggiodev)"><img src="https://img.shields.io/twitter/follow/raggiodev?logo=x" alt="raggiodev" /></a> </p>
 
 <div align="left">
   
 - 🔭 I’m currently working as a **Freelance Full Stack Web Developer** based in Argentina  
 
-- 🌱 I’m Learning **MERN Stack, advanced JS y React**
+- 🌱 I’m Currently Learning **CiberSecurity**
 
-- 💬 Ask me about **Full Stack Web Development with the MERN Stack; React Native with Expo & AI** (and more!)
+- 💬 Ask me about **Full Stack Web Development with the MERN Stack; React Native with Expo; AI & CyberSecurity** (and more!)
 
-- 📄 Know about my experiences in my [PORTFOLIO!](https://raggiodev-portfolio.vercel.app/)
+- 📄 Know about my experiences in my [PORTFOLIO!](https://raggiodev.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/raggiodev?tab=repositories)
 
@@ -29,7 +29,7 @@
 <p>
 <a href="https://codepen.io/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raggiodev" height="30" width="40" /></a>
 <a href="https://dev.to/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://twitter.com/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raggiodev" height="30" width="40" /></a>
+<a href="https://x.com/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raggiodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raggiodev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16666846/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raggiodev" height="30" width="40" /></a>
 <a href="https://codesandbox.com/u/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="raggiodev" height="30" width="40" /></a>
