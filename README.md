@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi 👋🏼 I’m Raggio Fernando Andres</h1>
+<h1>Hi! 👋🏼 I’m Raggio Fernando Andres</h1>
 <h3>Full Stack MERN - Web Developer from Argentina</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20views&color=0e75b6&style=flat" alt="raggiodev" /> <img src="https://komarev.com/ghpvc/?username=JoeTheorium&label=Profile%20views&color=0e75b6&style=flat" alt="JoeTheorium" /> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Full Stack Web Development with the MERN Stack; React Native with Expo; AI & CyberSecurity** (and more!)
 
-- 📄 Know about my experiences in my [PORTFOLIO!](https://raggiodev.vercel.app/)
+- 📄 Know about my experiences in my [PORTFOLIO!](https://raggiodev.com/)
 
 - 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/raggiodev?tab=repositories)
 
