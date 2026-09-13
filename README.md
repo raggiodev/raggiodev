@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
 
-- 📝 I regularly write articles on [INMINENT!]()
+- 📝 I regularly write articles on [my SUBSTACK PAGE](https://substack.com/@raggiodev)
 
 - ⚡ I like to **Taekwondo, play guitar, read, gym, watch series, play videogames & spending time with my family and friends. You know.**
 </div>
