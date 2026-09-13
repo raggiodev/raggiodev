@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences in my [PORTFOLIO!](https://raggiodev.com/)
 
-- 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/raggiodev?tab=repositories)
+- 👨‍💻 All of my projects are available at [my GitHub Page](https://github.com/raggiodev?tab=repositories)
 
 - 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
 
