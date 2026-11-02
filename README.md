@@ -16,27 +16,37 @@
 
 </div>
 
----
+## ⚡ TL;DR — No Fluff
 
-### ⚡ TL;DR — No Fluff
-
-I build web and mobile software, break down security architectures, and ship indie products. My core stack revolves around **JavaScript/TypeScript (MERN, Next.js, React Native, Capacitor)** and **Python**, combined with a strong focus on **Defensive Cybersecurity (Blue Team)** and **Agentic AI workflows**. 
+I build web and mobile software, break down security architectures, and ship indie products. My core stack revolves around **JavaScript/TypeScript (MERN, Next.js, React Native, Capacitor)** and **Python**, combined with a strong focus on **Defensive Cybersecurity (Blue Team)** and **Agentic AI workflows**.
 
 I prefer clean architectures, practical security over theoretical hype, and code that actually solves problems in production.
 
----
+## 🛠️ Current Focus
 
-### 🛠️ What I'm Currently Building & Doing
+- 🛡️ **Cyberdefense & Blue Team:** Pursuing my Undergraduate Degree in Cyberdefense at **FADENA (UNDEF)**, focusing on network security, incident response, and secure information services.
+- 📱 **Google Play Indie Publisher:** Building, maintaining, and shipping utility and security Android applications under the **Raggiodev** publisher profile.
+- 🤖 **AI & Agentic Systems:** Designing multi-provider AI architectures, local LLM workflows, and custom tooling powered by **Model Context Protocol (MCP)**.
+- ✍️ **Content & Community:** Writing technical articles on [Substack](https://substack.com/@raggiodev), running [Raggiodev](https://yt.raggiodev.com) & [CasiUnMinuto](https://casiunminuto.raggiodev.com) on YouTube, and mentoring aspiring developers.
 
-* 🛡️ **Cyberdefense & Blue Team:** Pursuing my Undergraduate Degree in Cyberdefense at **FADENA (UNDEF)**, focusing on network security, incident response, and secure information services.
-* 📱 **Mobile & Security Products:** Developing and shipping Android applications on Google Play under the **Raggiodev** publisher profile—including **NetPocket Cybersecurity** (an air-gapped security toolkit built with Capacitor, React, Vite & Tailwind) and **Psicopedapp**.
-* 🤖 **AI & Agentic Systems:** Building multi-provider AI integrations, automated workflows, and custom tools powered by **Model Context Protocol (MCP)**, Gemini, Groq, Qwen, and local LLMs.
-* 🎮 **Indie Game Dev:** Writing GDScript in **Godot Engine** (currently co-developing *Daily Dose*) and building competitive ELO-based trivia mechanics.
-* ✍️ **Content & Community:** Writing technical articles on [Substack](https://substack.com/@raggiodev), running [Raggiodev](https://yt.raggiodev.com) & [CasiUnMinuto](https://casiunminuto.raggiodev.com) on YouTube, and mentoring aspiring developers.
+## 🚀 Featured Builds & In the Lab
 
----
+- 🛡️ **NetPocket Cybersecurity** (`Capacitor` · `React` · `Vite` · `Tailwind CSS` · `Android`)
+  Air-gapped Android cybersecurity toolkit built for Blue Teamers, sysadmins, and students. Runs 100% offline with zero telemetry—because a security app that phones home to a random cloud server is just spyware with a nice UI.
 
-### 💻 Tech Stack & Arsenal
+- 🧠 **DocuDebate Lab** (`Agentic AI` · `LLMs` · `TypeScript` · `React`)
+  Multi-agent document analysis prototype where autonomous AI personas cross-examine, debate, and stress-test complex files instead of spitting out another generic summary. **Selected Top 6 Finalist out of 600+ participants** at the Egg *AI Power* competition.
+
+- 🤖 **Multi-Provider WhatsApp AI Agent & Obsidian Bridge** (`Node.js` · `Google Cloud` · `Gemini` · `Groq` · `Qwen`)
+  Cloud-hosted AI assistant that dynamically routes prompts across Gemini, Groq, and Qwen APIs while syncing notes directly into an **Obsidian** Second Brain. Built to automate real daily workflows without paying $20/month for every SaaS wrapper.
+
+- 📱 **Psicopedapp & Raggiodev Mobile Suite** (`React` · `Capacitor` · `React Native` · `Expo` · `SQL`)
+  Production mobile ecosystem in active development, including **Psicopedapp** (specialized psychopedagogy workflow tool), a lightweight offline accounting/notes tracker, and a competitive **ELO-ranked trivia game**.
+
+- 🎮 **Daily Dose** (`Godot Engine` · `GDScript`)
+  Indie video game co-developed with *Mysterious Dash* (Mati Serrano), currently gearing up for Kickstarter. Built from scratch in Godot because life is too short for bloated engine licenses.
+
+## 💻 Tech Stack & Arsenal
 
 #### **Frontend, Mobile & Cross-Platform**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -70,17 +80,13 @@ I prefer clean architectures, practical security over theoretical hype, and code
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
----
+## 🏆 Highlights & Credentials
 
-### 🏆 Highlights & Credentials
+- 🥇 **1st Place — Local Developer Hackathon** (Paso de los Libres, Corrientes).
+- 🏅 **Top 6 Finalist (out of 600+ participants)** — Egg "AI Power" Competition for architecting *DocuDebate Lab*.
+- 🔐 **Certifications:** Google Cybersecurity Professional Certificate · Microsoft & LinkedIn Cybersecurity Foundations · Cisco Networking Academy · 13x IBM SkillsBuild Technical Paths.
 
-* 🥇 **1st Place — Local Developer Hackathon** (Paso de los Libres, Corrientes).
-* 🏅 **Top 6 Finalist (out of 600+ participants)** — Egg "AI Power" Competition for architecting *DocuDebate Lab*.
-* 🔐 **Certifications:** Google Cybersecurity Professional Certificate · Microsoft & LinkedIn Cybersecurity Foundations · Cisco Networking Academy · 13x IBM SkillsBuild Technical Paths.
-
----
-
-### 📊 GitHub Telemetry
+## 📊 GitHub Telemetry
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raggiodev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fernando's GitHub stats" />
@@ -91,19 +97,15 @@ I prefer clean architectures, practical security over theoretical hype, and code
   <img src="https://streak-stats.demolab.com?user=raggiodev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-### 🧉 Beyond the Terminal
+## 🧉 Beyond the Terminal
 
 When I'm not auditing logs, fighting Android Gradle builds, or tweaking prompts for local models:
-* 🥋 Practicing **Taekwondo ITF** (and designing graphics for *Team Salvador*).
-* ♟️ Playing **Chess**, strumming the guitar, or defending my title in local **Mario Kart 64** tournaments.
-* 🧉 Powered by an endless supply of traditional **yerba mate** and sci-fi cinema (yes, my AI assistant is named after *TARSito* from *Interstellar*).
+- 🥋 Practicing **Taekwondo ITF** (and designing graphics for *Team Salvador*).
+- ♟️ Playing **Chess**, strumming the guitar, or defending my title in local **Mario Kart 64** tournaments.
+- 🧉 Powered by an endless supply of traditional **yerba mate** and sci-fi cinema (yes, my AI assistant is named *TARSito* after *TARS* from *Interstellar*).
 
----
+## 📫 Let's Connect
 
-### 📫 Let's Connect
-
-* 🌐 **Hub & Links:** [linktr.ee/raggiodev](https://linktr.ee/raggiodev) | [raggiodev.com](https://raggiodev.com/)
-* 📧 **Email:** [fernandoandresraggio@gmail.com](mailto:fernandoandresraggio@gmail.com)
-* ☕ **Support my open-source work:** [PayPal.me/raggiofernando](https://paypal.me/raggiofernando)
+- 🌐 **Hub & Links:** [linktr.ee/raggiodev](https://linktr.ee/raggiodev) | [raggiodev.com](https://raggiodev.com/)
+- 📧 **Email:** [fernandoandresraggio@gmail.com](mailto:fernandoandresraggio@gmail.com)
+- ☕ **Support my open-source work:** [PayPal.me/raggiofernando](https://paypal.me/raggiofernando)
