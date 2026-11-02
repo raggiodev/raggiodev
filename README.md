@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fernando Andrés Raggio (`@raggiodev`)
+# Fernando Andres Raggio (`@raggiodev`)
 ### Full Stack Developer · Cybersecurity Analyst (Blue Team) · Indie Builder
 
 📍 **Corrientes, Argentina** &nbsp;|&nbsp; 🛡️ **B. Sc. in Cyberdefense Student - FADENA (UNDEF)**
