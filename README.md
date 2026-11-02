@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fernando Andres Raggio (`@raggiodev`)
+# RAGGIO Fernando Andres (`@raggiodev`)
 ### Full Stack Developer · Cybersecurity Analyst (Blue Team) · Indie Builder
 
 📍 **Corrientes, Argentina** &nbsp;|&nbsp; 🛡️ **B. Sc. in Cyberdefense Student - FADENA (UNDEF)**
@@ -27,7 +27,7 @@ I prefer clean architectures, practical security over theoretical hype, and code
 - 🛡️ **Cyberdefense & Blue Team:** Pursuing my Undergraduate Degree in Cyberdefense at **FADENA (UNDEF)**, focusing on network security, incident response, and secure information services.
 - 📱 **Google Play Indie Publisher:** Building, maintaining, and shipping utility and security Android applications under the **Raggiodev** publisher profile.
 - 🤖 **AI & Agentic Systems:** Designing multi-provider AI architectures, local LLM workflows, and custom tooling powered by **Model Context Protocol (MCP)**.
-- ✍️ **Content & Community:** Writing technical articles on [Substack](https://substack.com/@raggiodev), running [Raggiodev](https://yt.raggiodev.com) & [CasiUnMinuto](https://casiunminuto.raggiodev.com) on YouTube, and mentoring aspiring developers.
+- ✍️ **Content & Community:** Writing technical articles on [Substack](https://substack.com/@raggiodev), running [Raggiodev](https://www.youtube.com/@raggiodev) & [CasiUnMinuto](https://casiunminuto.raggiodev.com) on YouTube, and mentoring aspiring developers.
 
 ## 🚀 Featured Builds & In the Lab
 
@@ -44,7 +44,7 @@ I prefer clean architectures, practical security over theoretical hype, and code
   Production mobile ecosystem in active development, including **Psicopedapp** (specialized psychopedagogy workflow tool), a lightweight offline accounting/notes tracker, and a competitive **ELO-ranked trivia game**.
 
 - 🎮 **Daily Dose** (`Godot Engine` · `GDScript`)
-  Indie video game co-developed with *Mysterious Dash* (Mati Serrano), currently gearing up for Kickstarter. Built from scratch in Godot because life is too short for bloated engine licenses.
+  Indie video game co-developed with *Mysterious Dash*, currently gearing up for Kickstarter. Built from scratch in Godot because life is too short for bloated engine licenses.
 
 ## 💻 Tech Stack & Arsenal
 
@@ -102,7 +102,7 @@ I prefer clean architectures, practical security over theoretical hype, and code
 When I'm not auditing logs, fighting Android Gradle builds, or tweaking prompts for local models:
 - 🥋 Practicing **Taekwondo ITF** (and designing graphics for *Team Salvador*).
 - ♟️ Playing **Chess**, strumming the guitar, or defending my title in local **Mario Kart 64** tournaments.
-- 🧉 Powered by an endless supply of traditional **yerba mate** and sci-fi cinema (yes, my AI assistant is named *TARSito* after *TARS* from *Interstellar*).
+- 🧉 Powered by an endless supply of traditional **yerba mate** and sci-fi cinema (yes, my AI assistant is named *TARSito* from *Interstellar*).
 
 ## 📫 Let's Connect
 
