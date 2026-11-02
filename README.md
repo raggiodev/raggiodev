@@ -84,7 +84,7 @@ I prefer clean architectures, practical security over theoretical hype, and code
 
 - 🥇 **1st Place — Local Developer Hackathon** (Paso de los Libres, Corrientes).
 - 🏅 **Top 6 Finalist (out of 600+ participants)** — Egg "AI Power" Competition for architecting *DocuDebate Lab*.
-- 🔐 **Certifications:** Google Cybersecurity Professional Certificate · Microsoft & LinkedIn Cybersecurity Foundations · Cisco Networking Academy · 13x IBM SkillsBuild Technical Paths.
+- 🔐 **Certifications:** Google Cybersecurity Professional Certificate (01/09) · Microsoft & LinkedIn Cybersecurity Foundations · Cisco Networking Academy · 13x IBM SkillsBuild Technical Paths.
 
 ## 📊 GitHub Telemetry
 
@@ -102,10 +102,10 @@ I prefer clean architectures, practical security over theoretical hype, and code
 When I'm not auditing logs, fighting Android Gradle builds, or tweaking prompts for local models:
 - 🥋 Practicing **Taekwondo ITF** (and designing graphics for *Team Salvador*).
 - ♟️ Playing **Chess**, strumming the guitar, or defending my title in local **Mario Kart 64** tournaments.
-- 🧉 Powered by an endless supply of traditional **yerba mate** and sci-fi cinema (yes, my AI assistant is named *TARSito* from *Interstellar*).
+- 🧉 Powered by an endless supply of traditional **yerba mate** and sci-fi cinema (yes, my AI assistant is named *TARSito* after *TARS* from *Interstellar*).
 
 ## 📫 Let's Connect
 
 - 🌐 **Hub & Links:** [linktr.ee/raggiodev](https://linktr.ee/raggiodev) | [raggiodev.com](https://raggiodev.com/)
-- 📧 **Email:** [fernandoandresraggio@gmail.com](mailto:fernandoandresraggio@gmail.com)
+- 📧 **Email:** [contact@raggiodev.com](mailto:contact@raggiodev.com)
 - ☕ **Support my open-source work:** [PayPal.me/raggiofernando](https://paypal.me/raggiofernando)
