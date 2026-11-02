@@ -1,81 +1,109 @@
 <div align="center">
-<h1>Hi! 👋🏼 I’m Raggio Fernando Andres</h1>
-<h3>Full Stack MERN - Web Developer from Argentina</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20views&color=0e75b6&style=flat" alt="raggiodev" /> <img src="https://komarev.com/ghpvc/?username=JoeTheorium&label=Profile%20views&color=0e75b6&style=flat" alt="JoeTheorium" /> </p>
+# Fernando Andrés Raggio (`@raggiodev`)
+### Full Stack Developer · Cybersecurity Analyst (Blue Team) · Indie Builder
 
-<p> <a href="https://x.com/raggiodev" target="[blank](https://x.com/raggiodev)"><img src="https://img.shields.io/twitter/follow/raggiodev?logo=x" alt="raggiodev" /></a> </p>
+📍 **Corrientes, Argentina** &nbsp;|&nbsp; 🛡️ **B. Sc. in Cyberdefense Student - FADENA (UNDEF)**
 
-<div align="left">
-  
-- 🔭 I’m currently working as a **Freelance Full Stack Web Developer** based in Argentina  
+[![Portfolio](https://img.shields.io/badge/raggiodev.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raggiodev.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raggiodev)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@raggiodev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raggiodev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://yt.raggiodev.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1674-327X)
 
-- 🌱 I’m Currently Learning **CiberSecurity**
+<img src="https://komarev.com/ghpvc/?username=raggiodev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="raggiodev views" />
 
-- 💬 Ask me about **Full Stack Web Development with the MERN Stack; React Native with Expo; AI & CyberSecurity** (and more!)
-
-- 📄 Know about my experiences in my [PORTFOLIO!](https://raggiodev.com/)
-
-- 👨‍💻 All of my projects are available at [my GitHub Page](https://github.com/raggiodev?tab=repositories)
-
-- 📫 How to reach me **fernandoandresraggio@gmail.com & joetheorium@gmail.com**
-
-- 📝 I regularly write articles on [my SUBSTACK PAGE](https://substack.com/@raggiodev)
-
-- ⚡ I like to **Taekwondo, play guitar, read, gym, watch series, play videogames & spending time with my family and friends. You know.**
-</div>
-
-## 💌 Connect with me!
-<p>
-<a href="https://codepen.io/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://dev.to/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://x.com/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16666846/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://dribbble.com/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raggiodev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raggiodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raggiodev" height="30" width="40" /></a>
-</p>
-
-# 💻 Languages & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raggiodev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raggiodev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=raggiodev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raggiodev&theme=dark&hide_border=false)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raggiodev&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-## 💰 You can help me by Donating :)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/raggiofernando)
 </div>
 
 ---
-## 🪪 My ORCID 🆔
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0000-1674-327X"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0000-1674-327X
-    </a>
+
+### ⚡ TL;DR — No Fluff
+
+I build web and mobile software, break down security architectures, and ship indie products. My core stack revolves around **JavaScript/TypeScript (MERN, Next.js, React Native, Capacitor)** and **Python**, combined with a strong focus on **Defensive Cybersecurity (Blue Team)** and **Agentic AI workflows**. 
+
+I prefer clean architectures, practical security over theoretical hype, and code that actually solves problems in production.
+
+---
+
+### 🛠️ What I'm Currently Building & Doing
+
+* 🛡️ **Cyberdefense & Blue Team:** Pursuing my Undergraduate Degree in Cyberdefense at **FADENA (UNDEF)**, focusing on network security, incident response, and secure information services.
+* 📱 **Mobile & Security Products:** Developing and shipping Android applications on Google Play under the **Raggiodev** publisher profile—including **NetPocket Cybersecurity** (an air-gapped security toolkit built with Capacitor, React, Vite & Tailwind) and **Psicopedapp**.
+* 🤖 **AI & Agentic Systems:** Building multi-provider AI integrations, automated workflows, and custom tools powered by **Model Context Protocol (MCP)**, Gemini, Groq, Qwen, and local LLMs.
+* 🎮 **Indie Game Dev:** Writing GDScript in **Godot Engine** (currently co-developing *Daily Dose*) and building competitive ELO-based trivia mechanics.
+* ✍️ **Content & Community:** Writing technical articles on [Substack](https://substack.com/@raggiodev), running [Raggiodev](https://yt.raggiodev.com) & [CasiUnMinuto](https://casiunminuto.raggiodev.com) on YouTube, and mentoring aspiring developers.
+
+---
+
+### 💻 Tech Stack & Arsenal
+
+#### **Frontend, Mobile & Cross-Platform**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **Backend, Databases & Systems**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_/_Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### **AI, Game Dev & Tools**
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API_&_MCP-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
+---
+
+### 🏆 Highlights & Credentials
+
+* 🥇 **1st Place — Local Developer Hackathon** (Paso de los Libres, Corrientes).
+* 🏅 **Top 6 Finalist (out of 600+ participants)** — Egg "AI Power" Competition for architecting *DocuDebate Lab*.
+* 🔐 **Certifications:** Google Cybersecurity Professional Certificate · Microsoft & LinkedIn Cybersecurity Foundations · Cisco Networking Academy · 13x IBM SkillsBuild Technical Paths.
+
+---
+
+### 📊 GitHub Telemetry
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raggiodev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fernando's GitHub stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raggiodev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=raggiodev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🧉 Beyond the Terminal
+
+When I'm not auditing logs, fighting Android Gradle builds, or tweaking prompts for local models:
+* 🥋 Practicing **Taekwondo ITF** (and designing graphics for *Team Salvador*).
+* ♟️ Playing **Chess**, strumming the guitar, or defending my title in local **Mario Kart 64** tournaments.
+* 🧉 Powered by an endless supply of traditional **yerba mate** and sci-fi cinema (yes, my AI assistant is named after *TARSito* from *Interstellar*).
+
+---
+
+### 📫 Let's Connect
+
+* 🌐 **Hub & Links:** [linktr.ee/raggiodev](https://linktr.ee/raggiodev) | [raggiodev.com](https://raggiodev.com/)
+* 📧 **Email:** [fernandoandresraggio@gmail.com](mailto:fernandoandresraggio@gmail.com)
+* ☕ **Support my open-source work:** [PayPal.me/raggiofernando](https://paypal.me/raggiofernando)
